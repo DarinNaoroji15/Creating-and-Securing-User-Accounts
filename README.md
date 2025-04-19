@@ -1,3 +1,3 @@
-# Creating-and-Securing-User-Accounts
+# Creating and Securing User Accounts
 
 In Progress...
